@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://2arl2gxwsgc2"
-path.s3tc="res://.godot/imported/Shoe.png-d19b3bd22e4c54484e5390c91aeffe95.s3tc.ctex"
+uid="uid://icutspvc8pg4"
+path.s3tc="res://.godot/imported/Shoe.png-59031dd0c9bc2ab0c08fcde4dae7e3d2.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://Stuff/plyer/Shoe.png"
-dest_files=["res://.godot/imported/Shoe.png-d19b3bd22e4c54484e5390c91aeffe95.s3tc.ctex"]
+source_file="res://Stuff/plyer/plyer/Shoe.png"
+dest_files=["res://.godot/imported/Shoe.png-59031dd0c9bc2ab0c08fcde4dae7e3d2.s3tc.ctex"]
 
 [params]
 
